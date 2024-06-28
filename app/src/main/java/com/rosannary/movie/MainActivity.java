@@ -33,6 +33,5 @@ public class MainActivity extends AppCompatActivity {
                 startActivities(new Intent[]{intent});
             }
         });
-
     }
 }
