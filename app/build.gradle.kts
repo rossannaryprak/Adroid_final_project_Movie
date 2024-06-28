@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.vornsaran.watch"
+    namespace = "com.rosannary.movie"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.vornsaran.watch"
+        applicationId = "com.rosannary.movie"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

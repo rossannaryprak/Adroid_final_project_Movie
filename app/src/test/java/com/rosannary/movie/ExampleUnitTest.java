@@ -1,4 +1,4 @@
-package com.vornsaran.watch;
+package com.rosannary.movie;
 
 import org.junit.Test;
 

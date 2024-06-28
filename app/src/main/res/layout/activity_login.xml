@@ -17,7 +17,7 @@
        <ImageView
            android:layout_width="200sp"
            android:layout_height="200sp"
-           android:src="@drawable/card_10"
+           android:src="@drawable/music"
            tools:ignore="MissingConstraints"
            tools:layout_editor_absoluteX="83dp"
            tools:layout_editor_absoluteY="78dp" />
@@ -26,7 +26,7 @@
            android:id="@+id/myform"
            android:layout_width="wrap_content"
            android:layout_height="wrap_content"
-           android:text="Welcome to Login"
+           android:text="Drama Cool"
            android:textColor="@color/primary"
            android:textSize="36sp"
            tools:ignore="MissingConstraints"

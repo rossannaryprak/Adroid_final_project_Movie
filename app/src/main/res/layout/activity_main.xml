@@ -7,19 +7,32 @@
     android:layout_height="match_parent"
     android:background="@drawable/profile_shape"
     tools:context=".MainActivity">
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="260dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/sub_title"
+        android:layout_marginBottom="20dp"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <ImageView
         android:id="@+id/imageView3"
         android:layout_width="match_parent"
-        android:layout_height="400dp"
-        android:layout_marginTop="40dp"
+        android:layout_height="450dp"
         app:layout_constraintBottom_toTopOf="@+id/textView2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/product1"
+        android:background="@drawable/inside"
         tools:ignore="MissingConstraints" />
 
     <TextView
@@ -66,12 +79,13 @@
         android:textAllCaps="true"
         app:layout_constraintTop_toBottomOf="@+id/textView2"
         />
+
     <FrameLayout
         android:id="@+id/fragment_container"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_gravity="bottom"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="0dp" />
+        tools:layout_editor_absoluteX="-141dp"
+        tools:layout_editor_absoluteY="16dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

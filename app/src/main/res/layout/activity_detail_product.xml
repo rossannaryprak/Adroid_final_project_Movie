@@ -85,7 +85,7 @@
             android:layout_gravity="center"
             android:scaleType="centerCrop"
             android:topLeftRadius="50dp"
-            android:src="@drawable/product_5"/>
+            android:src="@drawable/mov1"/>
 
         <!-- Image Section -->
 
@@ -119,17 +119,9 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Smart Watch"
+                            android:text="Handsome Gry"
                             android:textSize="32sp"
                             android:textColor="#000000"/>
-
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:layout_marginTop="10dp"
-                            android:text="$7900"
-                            android:textSize="25sp"
-                            android:textColor="#FF5722" />
 
                         <LinearLayout
                             android:layout_width="match_parent"
@@ -148,10 +140,10 @@
                             <RatingBar
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:rating="4.9"
-                                android:numStars="5"
+                                android:rating="5"
+                                android:numStars="7"
                                 android:stepSize="0.1"
-                                android:isIndicator="true"
+                                android:isIndicator="false"
                                 android:layout_marginTop="8dp"/>
 
                         </LinearLayout>
@@ -178,7 +170,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Apple Watch SE (2nd Gen) [GPS + Cellular 40mm] Smart Watch w/Midnight Aluminum Case and Midnight Sport Band - S/M. Fitness and Sleep Tracker, Crash Detection, Heart Rate Monitor, Water Resistant"
+                        android:text="Experience the magic of cinema from the comfort of your home with our Watch Movie feature. Whether you're in the mood for a blockbuster hit, a timeless classic, or an indie gem, our extensive library has something for everyone. Enjoy high-definition streaming with crystal-clear picture and sound quality, making every movie night an unforgettable experience."
                         android:textColor="@color/variant"
                         android:textSize="16sp" />
                 </LinearLayout>
@@ -196,8 +188,8 @@
                         android:layout_width="140dp"
                         android:layout_height="60dp"
                         android:layout_marginEnd="70dp"
-                        android:background="@drawable/category_buttun"
-                        android:text="Buy Now"
+                        android:background="@drawable/button_home_page"
+                        android:text="Watch Now"
                         android:textColor="@color/accent"
                         android:textSize="18sp" />
 

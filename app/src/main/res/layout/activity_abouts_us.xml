@@ -35,7 +35,7 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:src="@drawable/profile_img" />
+                    android:src="@drawable/mov2" />
 
             </RelativeLayout>
             <View
@@ -78,7 +78,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginHorizontal="10dp"
-                    android:text="Vorn Saran"
+                    android:text="Prak Rossaary"
                     android:textColor="@color/accent"
                     android:textSize="20dp" />
             </LinearLayout>
@@ -98,7 +98,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginHorizontal="85dp"
-                    android:text="65-210046"
+                    android:text="60-210046"
                     android:textColor="@color/accent"
                     android:textSize="20dp" />
             </LinearLayout>
@@ -153,7 +153,7 @@
                 android:layout_marginHorizontal="20dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Welcome to My Watch Shop, where timepieces come to life. We are passionate about empowering watch enthusiasts through the transformative potential of fine timepieces."
+                android:text="Populer Movies: Discover the latest hits and timeless classics. Watch now and dive into a world of captivating stories and unforgettable characters."
                 android:textSize="18sp"
                 android:textColor="@color/accent"
                 />
@@ -182,7 +182,7 @@
                 android:layout_marginHorizontal="20dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="At My Watch Shop, we envision a future where watch ownership is accessible, secure, and rewarding for everyone. Our mission is to create a vibrant marketplace that bridges the gap between traditional craftsmanship and modern technology, offering a dynamic platform for collectors to find their perfect timepiece."
+                android:text="At Populer Movies, we envision a future where cinematic experiences are accessible, secure, and rewarding for everyone. Our mission is to create a vibrant platform that bridges the gap between traditional storytelling and modern technology, offering a dynamic space for movie enthusiasts to discover their perfect film"
                 android:textSize="18sp"
                 android:textColor="@color/accent"
                 />

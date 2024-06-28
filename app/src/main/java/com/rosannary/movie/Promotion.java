@@ -1,4 +1,4 @@
-package com.vornsaran.watch;
+package com.rosannary.movie;
 
 import android.content.Intent;
 import android.os.Bundle;
